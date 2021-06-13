@@ -34,6 +34,7 @@ Patch4:        rt-default.diff
 
 # Opaque pixel formats
 Patch6:        1810.diff
+Patch7:        1896.patch
 
 BuildRequires: chrpath
 BuildRequires: pango-devel
